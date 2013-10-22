@@ -3,7 +3,7 @@ Containers, Blocks, and Iterators
 Sharing Functionality: Inheritance, Modules, and Mixins
 
 1. What is the difference between a Hash and an Array?
-Arrays use intergers as keys or indees, Hashes can use almost anything (strings, expressions, symbols, etc).
+Arrays use intergers as keys/indexes, Hashes can use almost anything (strings, expressions, symbols, etc).
 
 2. When would you use an Array over a Hash and vice versa?
 Arrays are better for looping through and performing operations on all items. Hashes are better for storing data when you know the exact key/value you are looking for.
